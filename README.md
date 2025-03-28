@@ -1,4 +1,3 @@
-# Pulse-Code-Modulation
 
 ## Aim
 
