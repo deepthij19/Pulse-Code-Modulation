@@ -1,14 +1,15 @@
 # Pulse-Code-Modulation
-Aim
+
+## Aim
 
 The aim of this program is to simulate the Pulse Code Modulation (PCM) process, where an analog message signal is converted into a digital signal through sampling and quantization.
 
-Tools required
+## Tools required
 
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 
-Program
-
+## Program
+~~~~
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -61,11 +62,12 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
+~~~~
 
 Output waveform
 ![image](https://github.com/user-attachments/assets/e457ddfd-f6d5-4a76-982e-e67e97313a09)
 
-Result
+## Result
 
 The result is a set of plots that visualize the original analog message signal, the clock signal used for sampling, the quantized PCM signal, and the reconstructed signal after demodulation.
 
