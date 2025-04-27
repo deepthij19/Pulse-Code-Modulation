@@ -66,6 +66,10 @@ plt.show()
 Output waveform
 ![image](https://github.com/user-attachments/assets/e457ddfd-f6d5-4a76-982e-e67e97313a09)
 
+# GRAPH:
+
+![image](https://github.com/user-attachments/assets/1c451d2f-adc0-4b24-a007-49db6dbbb661)
+
 ## Result
 
 The result is a set of plots that visualize the original analog message signal, the clock signal used for sampling, the quantized PCM signal, and the reconstructed signal after demodulation.
